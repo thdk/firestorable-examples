@@ -1,0 +1,19 @@
+.registration-line {
+    display: flex;
+    justify-content: space-between;
+    max-width: 600px;
+}
+
+.registration-line-details {
+    display: flex;
+}
+
+.registration-line-tools {
+    display: flex;
+}
+
+.registration-line-time {
+    width: 70px;
+    text-align: right;
+    margin-right: 1em;
+}

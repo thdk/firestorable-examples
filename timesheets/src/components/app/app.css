@@ -1,0 +1,17 @@
+.App {
+  padding: 1em;
+}
+
+.container {
+  display: flex;
+}
+
+.panel-right,
+.panel-left {
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+.panel-right {
+  background: lightgoldenrodyellow;
+}

@@ -1,0 +1,14 @@
+.registration-form {
+  margin-left: 2em;
+}
+
+label {
+  min-width: 100px;
+  display: inline-block;
+  text-align: right;
+  margin-right: 0.5em;
+}
+
+.registration-form-actions {
+  padding-left: 222px;
+}
